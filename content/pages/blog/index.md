@@ -91,33 +91,6 @@ topSections:
           - pb-16
           - pr-16
         justifyContent: center
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Projetos
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/surround-yourself-with-right-people.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
 styles:
   title:
     textAlign: center
