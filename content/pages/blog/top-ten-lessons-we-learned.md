@@ -7,7 +7,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/carrosel2.png
+  url: /images/hero3.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
