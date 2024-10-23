@@ -189,7 +189,7 @@ topSections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: Nome
           hideLabel: true
           placeholder: Seu nome
           isRequired: true
