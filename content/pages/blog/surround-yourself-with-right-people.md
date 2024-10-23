@@ -6,7 +6,7 @@ excerpt: ''
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/cyberlife.jpg
+  url: /images/cmtec.jpg
   styles:
     self:
       borderRadius: medium
