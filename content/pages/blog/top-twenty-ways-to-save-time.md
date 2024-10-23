@@ -4,7 +4,7 @@ slug: top-twenty-ways-to-save-time
 date: ''
 excerpt: ''
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/hefe.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
