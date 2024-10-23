@@ -9,6 +9,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+  url: /images/avancy.jpg
 seo:
   metaTitle: A Day in the Life of Our Development Team
   metaDescription: You can add the excerpt and main keywords of your blog post here.
