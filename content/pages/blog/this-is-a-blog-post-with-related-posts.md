@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Empresa de tecnologia
-date: '2022-10-22'
+date: '0002-10-22'
 excerpt: >-
   A TechIn-Out é uma empresa de tecnologia, dedicada ao desenvolvimento de
   software personalizado para empresas de pequeno e médio porte.
