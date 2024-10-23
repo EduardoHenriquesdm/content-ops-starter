@@ -142,7 +142,7 @@ topSections:
             flexDirection: col
             textAlign: center
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: This is the tagline
         subtitle: ''
         text: ''
