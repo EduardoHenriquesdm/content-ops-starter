@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Inovações e soluções nos define
       color: text-dark
       styles:
         self:
