@@ -44,6 +44,7 @@ topSections:
       - content/data/person5.json
       - content/data/person6.json
       - content/data/gustavoo.json
+      - content/data/kaleb.json
       - content/data/gustavo.json
       - content/data/gustavo.json
       - content/data/gustavo.json
