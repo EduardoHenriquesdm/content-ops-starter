@@ -1,5 +1,5 @@
 ---
-title: CmTec
+title: Cyber Life
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
 excerpt: ''
