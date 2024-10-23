@@ -198,7 +198,7 @@ topSections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Seu Email
           isRequired: true
           width: full
         - type: TextareaFormControl
