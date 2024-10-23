@@ -4,7 +4,7 @@ slug: life-of-our-development-team
 date: ''
 excerpt: ''
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/avancy.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
