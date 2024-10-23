@@ -4,8 +4,8 @@ title: This is a blog post with a CTA
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  A TechIn-Out é uma empresa de tecnologia, dedicada ao desenvolvimento de
+  software personalizado para empresas de pequeno e médio porte.
 featuredImage:
   type: ImageBlock
   url: /images/carrosel1.png
