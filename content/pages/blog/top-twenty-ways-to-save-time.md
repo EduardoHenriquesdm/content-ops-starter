@@ -2,9 +2,7 @@
 title: Hefestus
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
-excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui a
+excerpt: Desde
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
