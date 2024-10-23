@@ -103,8 +103,8 @@ topSections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
