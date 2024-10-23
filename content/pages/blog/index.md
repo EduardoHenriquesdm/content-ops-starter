@@ -94,7 +94,7 @@ topSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Projetos
       color: text-primary
       styles:
         self:
