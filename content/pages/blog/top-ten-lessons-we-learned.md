@@ -1,7 +1,7 @@
 ---
 title: Novas soluções são o que nos define!
 slug: top-ten-lessons-we-learned
-date: ''
+date: '0002-10-22'
 excerpt: >-
   Proporcionar soluções tecnológicas sob medida que não apenas atendam, mas
   superem as expectativas de nossos clientes. Trabalhamos em estreita
