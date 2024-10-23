@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Porjetos",
+            "label": "Projetos",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
