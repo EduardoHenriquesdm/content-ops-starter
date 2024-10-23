@@ -94,7 +94,7 @@ topSections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Projetos
       color: text-dark
       styles:
         self:
