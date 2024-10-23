@@ -45,6 +45,7 @@ topSections:
       - content/data/gustavoo.json
       - content/data/kaleb.json
       - content/data/rafa.json
+      - content/data/yasmin.json
       - content/data/gustavo.json
       - content/data/gustavo.json
       - content/data/gustavo.json
