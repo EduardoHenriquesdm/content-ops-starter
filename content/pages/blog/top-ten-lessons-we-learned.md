@@ -8,7 +8,6 @@ excerpt: >-
   colaboração para entender os desafios e objetivos de cada negócio, garantindo
   que nossos softwares sejam funcionais e intuitivos.
 featuredImage:
-  url: /images/hero3.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
