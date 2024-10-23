@@ -121,8 +121,7 @@ topSections:
         title: Cmtec
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/cmtec.jpg
