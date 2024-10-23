@@ -1,7 +1,7 @@
 ---
 title: CmTec
 slug: surround-yourself-with-right-people
-date: ''
+date: '2023-02-26'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
