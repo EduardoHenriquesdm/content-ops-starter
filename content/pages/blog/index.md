@@ -118,7 +118,7 @@ topSections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Cmtec
         tagline: ''
         subtitle: This is the item subtitle
         text: |
