@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
