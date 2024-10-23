@@ -188,7 +188,7 @@ topSections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: name
+          name: nome
           label: Nome
           hideLabel: true
           placeholder: Seu nome
