@@ -228,7 +228,7 @@ topSections:
           borderRadius: large
     badge:
       type: Badge
-      label: Fale conosco
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
 styles:
