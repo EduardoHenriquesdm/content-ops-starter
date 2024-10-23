@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "Sobre nós",
-            "url": "/pricing",
+            "label": "Projetos",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Projetos",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Sobre nós",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
