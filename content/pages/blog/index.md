@@ -207,6 +207,7 @@ topSections:
           hideLabel: true
           placeholder: Sua mensagem
           width: full
+          isRequired: true
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
