@@ -8,7 +8,7 @@ topSections:
       text: QUEM SOMOS?
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Entenda mais sobre o que nós oferecemos
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
