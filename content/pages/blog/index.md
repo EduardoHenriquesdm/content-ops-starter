@@ -120,7 +120,7 @@ topSections:
       - type: FeaturedItem
         title: Cmtec
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Projeto de chamados na ETEC
         text: ''
         image:
           type: ImageBlock
