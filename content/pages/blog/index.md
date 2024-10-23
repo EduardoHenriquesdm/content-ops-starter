@@ -191,7 +191,7 @@ topSections:
           name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Seu nome
           isRequired: true
           width: full
         - type: EmailFormControl
