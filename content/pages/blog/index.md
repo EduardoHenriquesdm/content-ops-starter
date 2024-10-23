@@ -44,6 +44,7 @@ topSections:
       - content/data/person5.json
       - content/data/person6.json
       - content/data/gustavo.json
+      - content/data/gustavo.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
