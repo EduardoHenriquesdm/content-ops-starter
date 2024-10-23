@@ -47,7 +47,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Conheça nosso time
       color: text-dark
       styles:
         self:
