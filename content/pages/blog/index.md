@@ -65,7 +65,7 @@ topSections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Nossos Parceiros
       color: text-dark
       styles:
         self:
