@@ -3,9 +3,10 @@ title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Proporcionar soluções tecnológicas sob medida que não apenas atendam, mas
+  superem as expectativas de nossos clientes. Trabalhamos em estreita
+  colaboração para entender os desafios e objetivos de cada negócio, garantindo
+  que nossos softwares sejam funcionais e intuitivos.
 featuredImage:
   url: /images/hero3.svg
   altText: Thumbnail
